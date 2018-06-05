@@ -13,7 +13,7 @@
 
 ## [第一章 概述](javascript.patterns/blob/master/chapter1.markdown)
 
-- [模式](javascript.patterns/blob/master/chapter1.markdown)
+- [模式](javascript-patterns/blob/master/chapter1.markdown#%E6%A8%A1%E5%BC%8F)
 - [JavaScript：概念](javascript.patterns/blob/master/chapter1.markdown#a2)
 	- [面向对象](javascript.patterns/blob/master/chapter1.markdown#a3)
 	- [无类](javascript.patterns/blob/master/chapter1.markdown#a4)
